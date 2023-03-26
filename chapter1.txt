@@ -1,3 +1,5 @@
 chapter 1 
 
 this is the first 
+
+to see if git diff detects changes before git add
